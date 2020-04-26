@@ -1,14 +1,14 @@
-public class Hello {
+public class TestHello {
     public static void main(String[] args) {
         System.out.println("Hello!!");
-        print();
-    }
-
-    public static void print() {
-        System.out.println("World!!!");
+        printMate();
     }
 
     public static void printMate() {
         System.out.println("Mate!!!");
+    }
+
+    public static void sameMethod() {
+        System.out.println("Some");
     }
 }
