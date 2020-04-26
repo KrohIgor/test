@@ -11,4 +11,8 @@ public class TestHello {
     public static void sameMethod() {
         System.out.println("Some");
     }
+
+    public static void waw() {
+        System.out.println("Waw!!!");
+    }
 }
